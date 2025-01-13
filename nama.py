@@ -1,4 +1,3 @@
  nama = "Sabrina Mutiara"
 
- print(nama)
- 
+ print (nama)
